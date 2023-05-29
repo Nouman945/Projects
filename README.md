@@ -3,7 +3,7 @@
 ## Welcome to my GitHub repository! Here, you will find a collection of my projects showcasing my skills and expertise in web development.
 
 ### Django Projects
-1. [Watad Energy](www.watadenergy.com): A dynamic web application built using Django framework. This platform focuses on sustainable energy solutions, providing information and services to promote a greener future. A Complete backend system to manage the content of the website and a <b>Blogging System</b>. Contact/Career forms created with django forms with <b>Captcha</b>.
+1. [Watad Energy](www.watadenergy.com): A dynamic web application built using Django framework with a Complete CMS for Managing the website content and Blogs. This platform focuses on sustainable energy solutions, providing information and services to promote a greener future. A Complete backend system to manage the content of the website and a <b>Blogging System</b>. Contact/Career forms created with django forms with <b>Captcha</b>.
 
 2. [RBisramandson](https://www.rbisramandsons.com/): A Ecommerce website developed using Django with User authentication. Highlighting the services and products offered by RBisramandson. This project demonstrates my ability to create engaging and user-friendly interfaces with Backend system.
 
