@@ -18,6 +18,16 @@
 
 1. [soulandsalt](https://soulandsalt.com/): An elegant WordPress website developed for sould and salts, showcasing their salt products. This project emphasizes my proficiency in WordPress customization and user-centric design.
 
+### Other WordPress Projects:
+
+**NOTE:** Some of these might not be working because of domain expiration 
+
+1. https://fashionbazaaruk.com/
+2. https://huracanbikes.co.uk/
+3. https://wklandscaping.com/
+4. http://rootrecycle.co.uk/
+5. https://alharmaintourism.com/
+
 Feel free to explore each project by clicking on the provided links. Each project highlights my commitment to delivering high-quality web applications with a focus on functionality, aesthetics, and user experience.
 
 If you have any questions or would like to collaborate on a project, please don't hesitate to reach out to me. Thank you for visiting my GitHub repository, and I look forward to connecting with you!
