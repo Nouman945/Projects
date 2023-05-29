@@ -15,9 +15,8 @@
  
 
 ### WordPress Projects
-1. [Near Future](https://nearfuture.website/): A visually stunning and content-rich website built on the WordPress platform. This project demonstrates my ability to create captivating designs and deliver engaging content for a diverse audience.
 
-2. [soulandsalt](https://soulandsalt.com/): An elegant WordPress website developed for sould and salts, showcasing their salt products. This project emphasizes my proficiency in WordPress customization and user-centric design.
+1. [soulandsalt](https://soulandsalt.com/): An elegant WordPress website developed for sould and salts, showcasing their salt products. This project emphasizes my proficiency in WordPress customization and user-centric design.
 
 Feel free to explore each project by clicking on the provided links. Each project highlights my commitment to delivering high-quality web applications with a focus on functionality, aesthetics, and user experience.
 
