@@ -7,9 +7,12 @@
 
 2. [RBisramandson](https://www.rbisramandsons.com/): A Ecommerce website developed using Django with User authentication. Highlighting the services and products offered by RBisramandson. This project demonstrates my ability to create engaging and user-friendly interfaces with Backend system.
 
-3. [GPTGCC](http://gptgcc.com/): An innovative web application utilizing Django to be used for Marketing the ChatGPT like langugage model create by [deeritc](deeritc.com). 
+3. [GPTGCC](http://gptgcc.com/): An innovative web application utilizing Django to be used for Marketing the ChatGPT like langugage model create by [deeritc](). 
 
 4. [Deer](https://deer.herokuapp.com/): A responsive and dynamic web application developed using Django with a complete Blogging CMS, offering a seamless experience for users interested in Artificial Intelligence Solutions. This involes a complete Blogging system with security features.
+
+5. [NearFuture](https://nearfuture.herokuapp.com/): This project involved the development of a website using Django and BootStrap for an investment firm specializing in AI and deep tech companies. The primary objectives of the website were to articulate the firm's unique selling propositions and invite potential clients to reach out for further information.
+ 
 
 ### WordPress Projects
 1. [Near Future](https://nearfuture.website/): A visually stunning and content-rich website built on the WordPress platform. This project demonstrates my ability to create captivating designs and deliver engaging content for a diverse audience.
