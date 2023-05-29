@@ -9,7 +9,7 @@
 
 3. [GPTGCC](http://gptgcc.com/): An innovative web application utilizing Django to be used for Marketing the ChatGPT like langugage model create by [deeritc](deeritc.com). 
 
-4. [Deer](https://deer.herokuapp.com/): A responsive web application developed using Django, offering a seamless experience for users interested in Artificial Intelligence Solutions. This involes a complete Blogging system with security features.
+4. [Deer](https://deer.herokuapp.com/): A responsive and dynamic web application developed using Django with a complete Blogging CMS, offering a seamless experience for users interested in Artificial Intelligence Solutions. This involes a complete Blogging system with security features.
 
 ### WordPress Projects
 1. [Near Future](https://nearfuture.website/): A visually stunning and content-rich website built on the WordPress platform. This project demonstrates my ability to create captivating designs and deliver engaging content for a diverse audience.
